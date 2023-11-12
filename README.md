@@ -66,3 +66,24 @@ Measures used in visualization are:
 - Dot Ball % =` DIVIDE(SUM(t20_bowling_summary[zeros]),SUM(t20_bowling_summary[balls]),0)`
 
 - Player selection = `if(ISFILTERED(t20_players_info[name]),"1","0")`
+
+- Display Text = `if([Player selection] = "1"," ","Select Player(s) by clicking the player's name to see their invidual or combined strength")`
+
+## Reports:
+Data visualization for the dataset was done using Microsoft Power BI Desktop.
+
+## Tools, Software and Libraries :
+
+1.Jupyter Notebook
+
+2.Python
+
+3.Pandas
+
+4.Webscraping
+
+5.Power Query Editor
+
+6.Power BI
+
+7.Anaconda Envirement
