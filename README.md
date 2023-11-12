@@ -7,9 +7,7 @@
 - [Data Transformation](https://github.com/krishnaprasadhs/End_to_End_Cricket_Analysis#data-transformation)
 - [Data Modelling](https://github.com/krishnaprasadhs/End_to_End_Cricket_Analysis#data-modelling)
 - [Data Analysis Expression (DAX)](https://github.com/krishnaprasadhs/End_to_End_Cricket_Analysis#data-analysis-expression-dax)
-- [Report](https://github.com/krishnaprasadhs/End_to_End_Cricket_Analysis#dashboard)
 - [Tools, Software and Libraries](https://github.com/krishnaprasadhs/End_to_End_Cricket_Analysis#tools-software-and-libraries-)
-- [References](https://github.com/krishnaprasadhs/End_to_End_Cricket_Analysis#references)
 
 ## Problem Statement :
 
