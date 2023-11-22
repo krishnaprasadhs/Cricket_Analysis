@@ -1,4 +1,4 @@
-# End_to_End_Cricket_Analysis
+# Cricket Analysis
 ## Table of Contents :
 
 - [Problem Statement](https://github.com/krishnaprasadhs/End_to_End_Cricket_Analysis#problem-statement-)
